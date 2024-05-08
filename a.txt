@@ -1,0 +1,6 @@
+testando atualizações de arquivos com git.
+nova
+atualização
+agora
+aqui
+nesse contexto.
